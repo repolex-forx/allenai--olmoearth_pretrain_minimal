@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "olmoearth_pretrain_minimal",
+  "versions": [
+    {
+      "commit": "8d5aa7c8c32f854ae8d7afa1b807614b8a1a4ab0",
+      "tag": "",
+      "parsed_at": "2026-11-07T18:31:28.811166+00:00"
+    }
+  ]
+}
