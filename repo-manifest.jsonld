@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/allenai/olmoearth_pretrain_minimal/commit/8d5aa7c8c32f854ae8d7afa1b807614b8a1a4ab0",
       "git:hexsha": "8d5aa7c8c32f854ae8d7afa1b807614b8a1a4ab0",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T18:31:28.810682+00:00"
     },
     {
       "@id": "https://repolex.ai/r/allenai/olmoearth_pretrain_minimal/commit/ef81a04d2006122f186b00b81e83aefa78bfb675",
